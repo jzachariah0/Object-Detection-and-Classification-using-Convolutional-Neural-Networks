@@ -1,7 +1,5 @@
 # Object-Detection-and-Classification-using-Convolutional-Neural-Networks
 
-The goal of this project is to develop a deep learning model that can accurately detect and classify objects in images. The model will use convolutional neural networks (CNNs) to automatically learn features from the input images and identify the objects present in them.
-
 Project Description: The goal of this project is to develop a deep learning model that can accurately detect and classify objects in images. The model will use convolutional neural networks (CNNs) to automatically learn features from the input images and identify the objects present in them.
 
 Dataset: The model will be trained and tested on a dataset of images containing various objects such as cars, bicycles, people, animals, etc. The dataset will be labeled with bounding boxes around each object to indicate its location and class label.
