@@ -1,0 +1,19 @@
+/dataset
+    /train
+        /dogs
+            dog1.jpg
+            dog2.jpg
+            ...
+        /cats
+            cat1.jpg
+            cat2.jpg
+            ...
+    /validation
+        /dogs
+            dog101.jpg
+            dog102.jpg
+            ...
+        /cats
+            cat101.jpg
+            cat102.jpg
+            ...
